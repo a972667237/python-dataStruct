@@ -1,4 +1,4 @@
-##BinarySearchTree
+BinarySearchTree
 ---
 ## 说实话。。。我重新写了才发现我的不足= =、
 * put 一个点的时候，根据左右判断决定往左往右递归
